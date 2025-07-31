@@ -1,4 +1,4 @@
-<h1> Bem Vindo! <img src="https://media1.tenor.com/m/RNAk-BqMeKAAAAAC/musical-notes.gif" width="50"></h1>
+<h1> Bem Vindo! <img src="https://cdn.pixabay.com/animation/2023/11/23/04/17/04-17-10-320_512.gif" width="50"></h1>
 
 <div>
   <a href="https://github.com/viniciusdarosa">
