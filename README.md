@@ -1,4 +1,4 @@
-<h1 align="center"> Bem Vindo! <img src="https://cdn.pixabay.com/animation/2023/11/23/04/17/04-17-10-320_512.gif" width="50"></h1>
+<h1 align="center"> Bem Vindo! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2OTJ0N3c2b256OW9mdzNlMHhxdjM1ZzRnamNxMmU3cndzNGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tBW2o1LQD8bo7ApExG/giphy.gif" width="50"></h1>
 
   <a href="https://github.com/viniciusdarosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusdarosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdarosa&layout=compact&langs_count=7&theme=github_dark"/>
