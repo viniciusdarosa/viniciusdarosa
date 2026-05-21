@@ -1,6 +1,6 @@
 <h1 align="center">Muito Prazer! </h1>
-<p> Grande Entusiasta da ultilização de Ia no Mercado </p>
-<p> Interessado em Desenvolvimento Back-End </p>
+<p align="center"> Grande Entusiasta da ultilização de Ia no Mercado </p>
+<p align="center"> Interessado em Desenvolvimento Back-End </p>
   <a href="https://github.com/viniciusdarosa">
     
 <h1 align="center">Tecnologias</h1>
