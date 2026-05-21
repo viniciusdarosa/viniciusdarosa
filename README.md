@@ -1,7 +1,6 @@
 <h1 align="center">Bem Vindo! </h1>
 
   <a href="https://github.com/viniciusdarosa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusdarosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdarosa&layout=compact&langs_count=7&theme=github_dark"/>
     
 <h1 align="center">Tecnologias</h1>
 
